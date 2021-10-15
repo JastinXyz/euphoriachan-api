@@ -1,0 +1,37 @@
+{
+  "name": "euphoriachan-api",
+  "version": "0.0.1",
+  "description": "Wrapper for https://api.euphoriachan.xyz | Which might be useful for you.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "JastinXyz <jastinlinggar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "chalk": "^4.1.2"
+  },
+  "keywords": [
+    "api",
+    "stalk-api",
+    "youtube-api",
+    "euphoria",
+    "euphoriachan-api",
+    "discord",
+    "anime",
+    "discord-bot",
+    "useful-api",
+    "no-api-key",
+    "wrapper",
+    "random"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JastinXyz/euphoriachan-api"
+  },
+  "bugs": {
+    "url": "https://github.com/JastinXyz/euphoriachan-api/issues"
+  },
+  "homepage": "https://github.com/JastinXyz/euphoriachan-api#readme"
+}
